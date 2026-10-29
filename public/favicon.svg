@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Academia de Mods">
+  <rect width="32" height="32" rx="7" fill="#12110e"/>
+  <rect x="13" y="4" width="4" height="16" rx="1" fill="#f4efe4"/>
+  <path d="M17 5.2 27.5 10 17 14.8Z" fill="#c4232a"/>
+  <path d="M7.5 19.2h15l-3.4 8.2c-.9 2.1-5.4 2.1-8.2 0Z" fill="#f4efe4"/>
+</svg>

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Academia de Mods",
+      "hasCanvas": false,
+      "bodyTextLen": 6996,
+      "bodyTextHash": "6d3fde0aa030d4c5721f0d1582b765d008f5b8155e3d9665aaaefc1cde291042",
+      "bodyTextPrefix": "Academia de Mods a partir de @Jotraxs Publicaciones Escuela Herr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Academia de Mods",
+      "hasCanvas": false,
+      "bodyTextLen": 6979,
+      "bodyTextHash": "5e23416f01d51d2deae71c4e6f383d86b3ca0049112cbba759e5b550b34d09d0",
+      "bodyTextPrefix": "Academia de Mods a partir de @Jotraxs Server TWITCH · DISCORD · ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
